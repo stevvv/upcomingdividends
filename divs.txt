@@ -1,0 +1,15 @@
+         Company     Type    Anounce      ExDiv   Delta                    Div_LTP
+ ABB Power Produ    Final 2021-02-26 2021-05-19 39 days                           
+      Stovec Ind    Final 2021-02-26 2021-05-03 23 days                           
+          Nestle    Final 2021-02-16 2021-04-29 19 days                           
+          Nestle  Interim 2021-04-06 2021-04-29 19 days                           
+    Zuari Global  Interim 2021-04-06 2021-04-27 17 days                           
+    Elantas Beck    Final 2021-02-23 2021-04-26 16 days                           
+         Castrol    Final 2021-02-01 2021-04-22 12 days                           
+ Huhtamaki India    Final 2021-03-30 2021-04-20 10 days                           
+       ABB India    Final 2021-02-10 2021-04-19  9 days   (RS 5 PER SHARE, 1379.2)
+  Schaeffler Ind    Final 2021-02-16 2021-04-19  9 days                           
+    Sanofi India    Final 2021-02-23 2021-04-19  9 days                           
+    Sanofi India  Special 2021-02-24 2021-04-19  9 days                           
+  Vesuvius India    Final 2021-02-25 2021-04-19  9 days                           
+       KSB Pumps    Final 2021-02-25 2021-04-15  5 days  (RS 8.5 PER SHARE, 924.0)
